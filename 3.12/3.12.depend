@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553416797 source:d:\c++³ÌÐò\3.12\main.cpp
+	<iostream>
+	"Account.h"
+
+1553412781 d:\c++³ÌÐò\3.12\include\account.h
+
+1553414168 source:d:\c++³ÌÐò\3.12\src\account.cpp
+	<iostream>
+	"Account.h"
+
