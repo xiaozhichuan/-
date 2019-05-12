@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1514140574 source:d:\c++程序\9.11\main.cpp
+	<iostream>
+
+1557637434 source:d:\c++程序\9.11\src\point.cpp
+	"Point.h"
+
+1557637434 d:\c++程序\9.11\include\point.h
+
+1557637434 source:d:\c++程序\9.11\src\rectangle.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Rectangle.h"
+
+1557637434 d:\c++程序\9.11\include\rectangle.h
+	"Point.h"
+
