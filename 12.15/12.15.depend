@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1559463548 source:d:\c++程序\12.15\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	"Account.h"
+	"SavingsAccount.h"
+	"CheckingAccount.h"
+
+1559463548 d:\c++程序\12.15\include\account.h
+
+1559463548 d:\c++程序\12.15\include\savingsaccount.h
+	"Account.h"
+
+1559463548 d:\c++程序\12.15\include\checkingaccount.h
+	"Account.h"
+
+1559463548 source:d:\c++程序\12.15\src\checkingaccount.cpp
+	<iostream>
+	"CheckingAccount.h"
+
+1559463548 source:d:\c++程序\12.15\src\savingsaccount.cpp
+	"SavingsAccount.h"
+
